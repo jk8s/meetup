@@ -3,6 +3,7 @@
 - Hosted by @girikuncoro / @imrenagi
 - Speakers: @iqbal_farabi + @_fikri_auliya
 - Meetup date: 2019-01-10
+- Venue: GOJEK HQ
 
 ## Agenda
 
