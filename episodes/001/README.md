@@ -8,13 +8,18 @@
 ## Agenda
 
 - Welcome to Jakarta Kubernetes Meetup
-- Announcements
 - Update from Kubernetes / Cloud Native Community
-- Talk #1 by Iqbal Farabi (GOJEK)
-- Talk #2 by Pahlevi Fikri Auliya (HIJUP)
+- Talk #1 by Iqbal Farabi (System Engineer @GOJEK)
+- Talk #2 by Pahlevi Fikri Auliya (CTO @HIJUP)
+- Announcements
 - Hallway track
 
-## Show Notes
+## Talks
+
+- Iqbal Farabi: [Kubernetes Fundamental](https://slides.com/qblfrb/kubernetesthe-ruby-way-71#/)
+- Pahlevi Auliya: [Exploring KNative](bit.ly/knative)
+
+## Notes
 
 - [Kubecon Barcelona CFP](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/cfp/) Deadline 18 Jan 2018
 - Kubecon Seattle 2018 [Youtube Playlist](https://www.youtube.com/playlist?list=PLj6h78yzYM2PZf9eA7bhWnIh_mK1vyOfU)
@@ -27,4 +32,4 @@
 
 ## Reference Links
 
-None
+- Welcoming Slide for [January Meetup](https://docs.google.com/presentation/d/1VF_u0IYnvi0f-W2siKdFV8P1x6m6qzzblgYIAc5ZPq0/edit?usp=sharing)
