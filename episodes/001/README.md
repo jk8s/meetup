@@ -17,7 +17,7 @@
 ## Talks
 
 - Iqbal Farabi: [Kubernetes Fundamental](https://slides.com/qblfrb/kubernetesthe-ruby-way-71#/)
-- Pahlevi Auliya: [Exploring KNative](bit.ly/knative)
+- Pahlevi Auliya: [Exploring KNative](https://bit.ly/knative)
 
 ## Notes
 
