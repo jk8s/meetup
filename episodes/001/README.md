@@ -5,8 +5,8 @@
 - Meetup date: 2019-01-10
 - Venue: GOJEK HQ
 - Video: 
-    - [Levi's KNative](https://www.youtube.com/watch?v=DZQOgIWN1pE)
-    - Iqbal's Kubernetes Fundamentals (link TBD)
+    - [Levi: Exploring KNative](https://www.youtube.com/watch?v=DZQOgIWN1pE)
+    - Iqbal: Kubernetes Fundamentals (link TBD)
 
 ## Agenda
 
