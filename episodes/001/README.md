@@ -4,6 +4,9 @@
 - Speakers: @iqbal_farabi + @_fikri_auliya
 - Meetup date: 2019-01-10
 - Venue: GOJEK HQ
+- Video: 
+    - [Levi's KNative](https://www.youtube.com/watch?v=DZQOgIWN1pE)
+    - Iqbal's Kubernetes Fundamentals (link TBD)
 
 ## Agenda
 
@@ -32,4 +35,5 @@
 
 ## Reference Links
 
+- [January Meetup Event](https://www.meetup.com/jakarta-kubernetes/events/257696465/)
 - Welcoming Slide for [January Meetup](https://docs.google.com/presentation/d/1VF_u0IYnvi0f-W2siKdFV8P1x6m6qzzblgYIAc5ZPq0/edit?usp=sharing)
