@@ -24,7 +24,7 @@ TBD
 ## Notes
 
 - [Kubernetes v1.13.3 is released (go.1.11.5)](https://github.com/kubernetes/kubernetes/releases/tag/v1.13.3) 
-- [Kubernetes Failure Stories & Podcast](https://github.com/hjacobs/kubernetes-failure-stories)
+- [Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories) & [Podcast](https://kubernetespodcast.com/episode/038-kubernetes-failure-stories/)
 - [New CNCF TOC](https://www.cncf.io/blog/2019/01/29/new-year-new-toc/)
 - [Democratizing Distributed Systems](https://www.youtube.com/watch?v=20BIsu1qiS0), Kubernetes Cofounder Brendan Burns.
 - [Kubernetes Docs Has New Look!](https://kubernetes.io/docs/home/) 
