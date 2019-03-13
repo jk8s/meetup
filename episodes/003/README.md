@@ -20,7 +20,7 @@
 ## Talks
 
 - Mete Atamel: [Stop reinventing the wheel with Istio](https://speakerdeck.com/meteatamel/stop-reinventing-the-wheel-with-istio)
-- Christoper Hans: [Kubernetes at Bukalapak, An SRE Perspective](https://docs.google.com/presentation/d/1IXCX1XV-yY7qnwd0ZhEsGUDynpgm-TfIgpsfxBwRlY8/edit)
+- Imre Nagi: [Running Istio in TVLK Data Production](https://docs.google.com/presentation/d/1qaREEr4kqTNDKyShAMcZbb6J7ETDPZdjUYo6aOTLC4Y/edit?usp=sharing)
 
 ## Notes
 
