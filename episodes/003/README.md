@@ -5,8 +5,8 @@
 - Meetup date: 2019-03-12
 - Venue: Traveloka HQ
 - Video:
-    - Mete Atamel: [Stop reinventing the wheel with Istio](https://www.youtube.com/watch?v=q-RWPjnJ2Y0&t=1948)
-    - Imre Nagi: [Running Istio in TVLK Data Production](https://www.youtube.com/watch?v=q-RWPjnJ2Y0&t=4798)
+    - Mete Atamel: [Stop reinventing the wheel with Istio](https://www.youtube.com/watch?v=q-RWPjnJ2Y0&t=149)
+    - Imre Nagi: [Running Istio in TVLK Data Production](https://www.youtube.com/watch?v=q-RWPjnJ2Y0&t=2974)
 
 ## Agenda
 
