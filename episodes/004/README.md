@@ -5,8 +5,8 @@
 - Meetup date: 2019-04-11
 - Venue: CBNCloud
 - Video:
-    - Irvi Firqotul Aini: (TBD)
-    - Lukluk Santoso: (TBD)
+    - Irvi Firqotul Aini: [Understanding Kubernetes API Server](https://www.youtube.com/watch?v=IePXdP02eIo&t=3700)
+    - Lukluk Santoso: [Service Discovery with Consul on Kubernetes](https://www.youtube.com/watch?v=IePXdP02eIo&t=5633)
 
 ## Agenda
 
