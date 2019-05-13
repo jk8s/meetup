@@ -22,7 +22,7 @@
   - [Video](https://youtu.be/lJeKWFSy2nM)
 - **"Journey and Tips on Passing CKA Certification"** by Husni (Pahamify):
   - [Slides](https://docs.google.com/presentation/d/1IJctTisfRQhTgkpyVUmgH3X6z9ozrXeJ8ta_6uSIt80/edit?usp=sharing)
-  - [Video](TBD)
+  - [Video](https://youtu.be/AX-Rgs0SRrs)
 - **"How to Become Kubernetes Contributor"** by Giri & Irvi (Kubernetes SIG Docs ID):
   - [Slides](https://docs.google.com/presentation/d/1Bl0Msa_DUbwoY_d5_FAao9SzbYJKnvPRAVxmSMvSvzI)
   - [Video](TBD)
