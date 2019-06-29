@@ -1,4 +1,4 @@
-# Episode 006 : Kubernetes Networking, CKA, and How to Contribute
+# Episode 006 : Service Mesh in AWS and Kube Deployment
 
 - Hosted by @imrenagi @girikuncoro
 - Speakers: Moko (Loket), Donnie (AWS)
