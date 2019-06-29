@@ -1,6 +1,6 @@
 # Episode 006 : Service Mesh in AWS and Kube Deployment
 
-- Hosted by @imrenagi @girikuncoro
+- Hosted by [@imrenagi](http://twitter.com/imrenagi) [@girikuncoro](http://twitter.com/girikuncoro)
 - Speakers: Moko (Loket), Donnie (AWS)
 - Meetup date: 2019-06-20
 - Venue: KitaBisa (Conclave Simatupang)
