@@ -18,10 +18,9 @@
 ## Talks
 
 - **""** by Luthfi (Google):
-  - [Slides]()
   - [Video]()
-- **""** by Zufar (Btech):
-  - [Slides]()
+- **"Kuryr Kubernetes: Interconnecting Kubernetes with Openstack"** by Zufar (Btech):
+  - [Slides](https://docs.google.com/presentation/d/10KbPoYup4oKp-gCsXxMGJ7fNNfvWwXfYWHfTiBDZOHs/edit#slide=id.g5d2159c8d6_2_75)
   - [Video]()
 
 ## Notes
