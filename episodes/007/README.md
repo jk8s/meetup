@@ -1,4 +1,4 @@
-# Episode 006 : Service Mesh in AWS and Kube Deployment
+# Episode 007 : Kubernetes Birthday Celebration
 
 - Hosted by [@imrenagi](http://twitter.com/imrenagi) [@girikuncoro](http://twitter.com/girikuncoro) [@irvifa](http://twitter.com/irvifa)
 - Speakers: Luthfi (Google), Zufar (Btech)
@@ -17,11 +17,11 @@
 
 ## Talks
 
-- **""** by Luthfi (Google):
-  - [Video]()
+- **"Security Practices in Kubernetes"** by Luthfi (Google):
+  - Slide/Video is confidential
 - **"Kuryr Kubernetes: Interconnecting Kubernetes with Openstack"** by Zufar (Btech):
   - [Slides](https://docs.google.com/presentation/d/10KbPoYup4oKp-gCsXxMGJ7fNNfvWwXfYWHfTiBDZOHs/edit#slide=id.g5d2159c8d6_2_75)
-  - [Video]()
+  - Video(Link TBD)
 
 ## Notes
 
@@ -29,5 +29,5 @@
 
 ## Reference Links
 
-- [June Meetup Event](https://www.meetup.com/jakarta-kubernetes/events/262832040/)
+- [July Meetup Event](https://www.meetup.com/jakarta-kubernetes/events/262832040/)
 - Welcoming Slide for [July Meetup](https://docs.google.com/presentation/d/13jUXXzYlhRktwyJapjGeaPD-Bfz52dXyp3WP1RoU_O8/edit?usp=sharing)
