@@ -18,7 +18,7 @@
 ## Talks
 
 - **"Docker and Kubernetes Monitoring with Elastic Stack"** by Arravind (Elastic):
-  - Slides(Link TBD, no slides - demo only)
+  - [Slides](http://ela.st/aravind)
   - [Video](https://www.youtube.com/watch?v=bYFwBqfGsx4) - Unfortunately no sound
 - **""Basic of Stateful and Storage in Kubernetes** by Kevin (Alterra):
   - [Slides](https://docs.google.com/presentation/d/17UnrPmXNZS8EW3CbslDyC0iDb9O1cKjWV8K2r-ZMF1Q)
@@ -30,5 +30,9 @@
 
 ## Reference Links
 
+- [Monitoring Kubernetes](https://www.elastic.co/blog/monitoring-kubernetes-and-docker-containers-with-beats-logs-metrics-and-metadata)
+- [Running Elasticsearch on Kubernetes](https://www.youtube.com/watch?v=t4WyD4AE0q4)
+- [Documentation for running Elasticsearch on Kubernetes](https://www.elastic.co/guide/en/cloud-on-k8s/current/index.html)
+- [Resources for getting started with Elastic Stack](http://ela.st/brownbag)
 - [August Meetup Event](https://www.meetup.com/jakarta-kubernetes/events/263382106/)
 - Welcoming Slide for [August Meetup](https://docs.google.com/presentation/d/17s2c0NaeK_-GC6H0yuBG6mjdADGdVW-KuV1zAl-281o)
