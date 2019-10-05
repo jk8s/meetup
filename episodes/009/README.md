@@ -1,4 +1,4 @@
-# Episode 008 : Kubernetes Monitoring & Stateful Basics
+# Episode 009 : Kubernetes Monitoring & Stateful Basics
 
 - Hosted by [@girikuncoro](http://twitter.com/girikuncoro) [@irvifa](http://twitter.com/irvifa)
 - Speakers: Rangga (FemaleDaily), Eufrat (Nodeflux)
