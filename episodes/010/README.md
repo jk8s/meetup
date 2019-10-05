@@ -34,3 +34,4 @@
 
 - [October Meetup Event](https://www.meetup.com/jakarta-kubernetes/events/265139864/)
 - Welcoming Slide for [October Meetup](https://docs.google.com/presentation/d/1n6_r_7iCxBrgxO00fdJbexkX8Zy1uvBlgM5M74DvSQQ/edit#slide=id.g4c35bb3ebd_2_71)
+- [October Meeutp Kalibrr Blog](https://live-kalibrrphil.pantheonsite.io/advice/2019/10/kalibrr-x-kubernetes-indonesia-solusi-microservice-dari-kubernauts-indonesia)
