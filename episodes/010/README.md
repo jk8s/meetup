@@ -18,7 +18,7 @@
 ## Talks
 
 - **"Intro to StatefulSet with Case Study of Deploying Various Stateful Components"** by Imre (Google Developer Expert):
-  - Slides(TBD)
+  - [Slides](https://docs.google.com/presentation/d/1x1Qsfujw4WU7ucf-Lq-wdEcMcSg-u0E5QifJD5w2Flc)
   - [Video](https://youtu.be/69voJLpcGLU)
 - **"Service Mesh Observability with Kiali"** by Yusuf (Biznet Gio):
   - [Slides](https://www.slideshare.net/isnuryusuf/kubernetes-jakarta-meetup-010-service-mesh-observability-with-kiali)
