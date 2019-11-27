@@ -9,7 +9,7 @@
 
 - **"Extending Kubernetes with Custom Resources"** by Reyhan Sofian Haqqi (Kata.ai):
   - [Slides](https://speakerdeck.com/reyhansofian/extending-kubernetes-with-custom-resources)
-  - [Video](TBD)
+  - [Video](https://youtu.be/tnb4Uu7BW1g)
 - **"Optimizing Java Containers on Kubernetes for Government Usecases"** by Arga Dhahana Pramudianto (Balai Sertifikasi Elektronik, Badan Siber dan Sandi Negara):
   - [Slides](https://drive.google.com/file/d/1UvCYitOMxGA4DAm0YqsuB-4BoeT6jXCF/view?usp=sharing)
   - Video (not recorded since it may contain sensitive info)
