@@ -18,7 +18,7 @@
 
 - [Diversity Scholarship for Kubecon Amsterdam 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/diversity-scholarships/)
 - [Shadowing for Kubernetes 1.18 Release Team](https://docs.google.com/forms/d/e/1FAIpQLSeNrOojaEiyPNTzN1JWZS3vmU9xANC3FjQDmrU1DYl-s2o0Zw/viewform)
-- 1 Month Free Qwiklabs [#JuaraGCP](goo.gle/JuaraGCP)
+- 1 Month Free Qwiklabs [#JuaraGCP](http://goo.gle/JuaraGCP)
 - Kubernetes 1.17 new features (giri's pick):
   - Kubeadm machine/structured output
   - IPv4/IPv6 dual-stack support
