@@ -9,10 +9,10 @@
 
 - **"Intro to Kubernetes Autoscaling: HPA, VPA, CA, and beyond"** by William Albertus Dembo (GoPay):
   - [Slides](https://docs.google.com/presentation/d/1p-PwgOk_DLZkTmGRTK37PLOut2rxWUXxnPOqPmKZ2t4)
-  - [Video](TBD)
+  - [Video](https://youtu.be/3j_IUiPflf4)
 - **"Airy Journey on Adopting Kubernetes in AWS and Intro to Telepresence"** by Kurnianto Trilaksono (Airy):
   - [Slides](https://drive.google.com/open?id=1g6RkmYd4rC8iBt5gNFKCa5IkHQYoD6Jw)
-  - Video (TBD)
+  - Video (https://www.youtube.com/watch?v=idUYQ7NRw4A)
 
 ## Notes
 
